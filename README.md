@@ -65,7 +65,7 @@ You can run the command "python game.py" and the program will start.
 
 - Once you run the program, a pygame window will pop which will be the game with the preset AI. No further action is required.
 
-![flappy bird game screen](flappybirdAIgame.gif)
+![flappy bird game screen](flappyBirdAIgame.gif)
 
 ## How to run other configurations?
 
