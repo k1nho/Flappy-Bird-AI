@@ -65,6 +65,8 @@ You can run the command "python game.py" and the program will start.
 
 - Once you run the program, a pygame window will pop which will be the game with the preset AI. No further action is required.
 
+![flappy bird game screen](flappybirdAIgame.gif)
+
 ## How to run other configurations?
 
 - To see how the AI can fly infinitely simply go to the configFB.txt file.
