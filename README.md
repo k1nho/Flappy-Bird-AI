@@ -6,7 +6,7 @@ The game of flappy bird consists of a bird that
 navigates through a pair of pipes. In the game, the score of
 a match is determined by the number of pipe pairs that a bird
 manages to pass through without causing a collision with the
-pipes. This paper is aimed at the exploration of an artificial
+pipes. This project is aimed at the exploration of an artificial
 intelligence for the game by employing the library of neuro
 evolution of augmenting topologies for the realization of a genetic
 algorithm that produces a bird AI capable of achieving a score
